@@ -1,4 +1,4 @@
-    ### Analyzing gun deaths in the US.
+    ###Analyzing gun deaths in the US.
     The debate on Gun Control is a very contentious one, people on both sides of the debate put forth compelling arguments. Is there a way to approach the issue without any bias, well one way to do just that is to analyze any data related to gun deaths. Fortunately for the folks at [FiveThirtyEight](https://fivethirtyeight.com/) have already compiled the dataset which can be found here  https://github.com/fivethirtyeight/guns-data.   
 
     In this python notebook we will be analyzing and exploring the data to understand the demographics and social-economic factors associated with the dataset.
