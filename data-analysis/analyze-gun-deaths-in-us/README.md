@@ -8,5 +8,5 @@
     The folder contains 4 files, viz.
     1. Basics.ipynb - ipython notebook contains code and markdown content, it uses the python 3.5 Kernel. The python code   uses lists (comprehension) and dictionaries to organize and categorize the data.
     2. README.md - Write-up on the project
-    3. census.csv - Census data
-    4. guns.csv - Gund deaths data from 2012 to 2014.
+    3. census.csv - Census data: Data from the file is used to get the population count by race, the information is then used to calculate the rate of deaths by guns per 100K of the population by race.
+    4. guns.csv - Gund deaths data from 2012 to 2014. Every row represents a death due to gun violence.
