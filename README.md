@@ -1,4 +1,4 @@
-### portfolio
+### datascience_reference
 The repository contains the following directories:
 - data-analysis:
   - Contains projects that illustrate how to analyze a dataset using the python pandas framework.
